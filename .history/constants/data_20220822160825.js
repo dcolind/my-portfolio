@@ -95,8 +95,7 @@ const userData = {
       desc: "Subjects being PCM - I barely survived with 93.6% marks aggregate. Flex fridays, fellas.",
     },
   ], 
-  resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+  
   socialLinks: {
     instagram: "https://instagram.com/maninthere",
     twitter: "https://twitter.com/mannupaaji",
